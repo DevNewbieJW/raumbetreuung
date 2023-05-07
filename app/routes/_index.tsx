@@ -5,5 +5,9 @@ export const meta: V2_MetaFunction = () => {
 };
 
 export default function Index() {
-  return <div></div>;
+  return (
+    <div className="w-full h-full flex items-center justify-center text-red-400">
+      foo bar
+    </div>
+  );
 }
