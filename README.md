@@ -6,6 +6,10 @@ The app styling is based on the [`shadcn-ui`](https://ui.shadcn.com) library. Th
 
 As a Reference for the Theming, you should take a look at the [Shadcn UI - Theming](https://ui.shadcn.com/docs/theming) page.
 
+## Database
+
+As a Database we use [Supabase](https://supabase.com/docs) and the [Prisma ORM](https://www.prisma.io/)
+
 # Setup Remix
 
 - [Remix Docs](https://remix.run/docs)
